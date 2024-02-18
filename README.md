@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-rao88&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-rao88" /> </p>
 
